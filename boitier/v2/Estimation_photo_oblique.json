@@ -1,0 +1,21 @@
+{
+  "method": "Perspective camera fit: 16 switch top faces at nominal 7.5mm plus 3 PCB mounting holes at z0; manual top-shaft centers",
+  "image": "image(20261109-232317).png",
+  "camera_focal_px": 4859.39701173091,
+  "calibration_rms_px": 0.9399997167314211,
+  "pot_heights_mm": [
+    25.00373599831471,
+    25.205328996325765,
+    24.883239933926145,
+    24.77647096732693,
+    24.91239196555313,
+    24.482003754406975,
+    24.894885911933972,
+    25.130140070134495
+  ],
+  "pot_median_mm": 24.90363893874355,
+  "limitations": "One oblique photograph; unknown lens distortion; switch top extraction approximate; not certified metrology.",
+  "seed_pcb_top_above_main_pcb_mm": 13.274002364571622,
+  "seed_pcb_bottom_above_main_pcb_mm": 11.673002364571623,
+  "seed_corner_fit_rms_px": 2.607394261294179
+}

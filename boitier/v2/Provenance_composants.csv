@@ -1,0 +1,320 @@
+reference,geometry,source
+PCB_197x111x1_6,Exact Edge.Cuts and thickness,KiCad Rev4
+H1_plating,KiCad mounting pad,
+H2_plating,KiCad mounting pad,
+H3_plating,KiCad mounting pad,
+H4_plating,KiCad mounting pad,
+R98,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_1206_3216Metric.step
+R91,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R67,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R7,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C22,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+U6,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step
+C47,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+U9,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step
+C6,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R50,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R90,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R2,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C24,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+C12,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_4x5.8.step
+R49,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R97,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_1206_3216Metric.step
+C14,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R39,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D15,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R24,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R36,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R5,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R83,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R51,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+U5,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.step
+C49,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+R57,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D5,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+U12,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.step
+R70,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C18,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+R16,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+U4,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.step
+C2,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+D10,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+C31,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+C37,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+D11,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R93,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R38,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D20,Standard KiCad STEP; nominal package envelope,Diode_SMD.3dshapes/D_SOD-323F.step
+U3,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step
+R52,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R17,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C7,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+D2,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R21,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R42,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R22,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R92,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C10,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_4x5.8.step
+R43,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R23,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R94,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R60,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C9,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_4x5.8.step
+D4,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R74,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R9,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_1206_3216Metric.step
+D1,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R54,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R40,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R27,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C1,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+D12,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+D9,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R89,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R1,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C32,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+U15,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step
+C23,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+C28,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R25,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R30,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D7,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R28,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R29,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R102,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C19,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+D18,Standard KiCad STEP; nominal package envelope,Diode_SMD.3dshapes/D_SOD-323F.step
+R86,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C26,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R87,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C35,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+R3,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R101,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C46,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+U8,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/TSSOP-28_4.4x9.7mm_P0.65mm.step
+R10,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R37,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R53,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R34,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R56,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+U2,Standard KiCad STEP; nominal package envelope,Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step
+R32,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R33,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C8,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+D13,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+Q2,Standard KiCad STEP; nominal package envelope,Package_TO_SOT_SMD.3dshapes/SOT-23.step
+C17,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+D16,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+C43,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_4x5.8.step
+R20,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+U14,Standard KiCad STEP; nominal package envelope,Package_TO_SOT_SMD.3dshapes/SOT-23-6.step
+C39,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+R78,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D6,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R19,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R31,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+Q1,Standard KiCad STEP; nominal package envelope,Package_TO_SOT_SMD.3dshapes/SOT-23.step
+R66,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R84,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R59,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R55,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D8,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+C34,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R6,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C5,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R58,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R48,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D19,Standard KiCad STEP; nominal package envelope,Diode_SMD.3dshapes/D_SOD-323F.step
+C15,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+C4,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R88,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R47,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R8,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R69,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R103,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C29,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+C36,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+C30,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+R73,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C42,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_4x5.8.step
+R13,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+U11,Standard KiCad STEP; nominal package envelope,Package_DIP.3dshapes/DIP-6_W7.62mm.step
+R75,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D3,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R76,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R14,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C20,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R45,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R96,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C38,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+R100,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D14,Standard KiCad STEP; nominal package envelope,LED_SMD.3dshapes/LED_0603_1608Metric.step
+R77,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R99,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_1206_3216Metric.step
+R62,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R12,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R71,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R44,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R72,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R35,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C25,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R11,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R61,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R80,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C41,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+C16,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step
+R79,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+U10,Standard KiCad STEP; nominal package envelope,Package_TO_SOT_SMD.3dshapes/SOT-223.step
+C13,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R63,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D17,Standard KiCad STEP; nominal package envelope,Diode_SMD.3dshapes/D_SOD-323F.step
+R46,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R68,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R81,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C11,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/CP_Elec_4x5.8.step
+R18,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C40,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R4,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D21,Standard KiCad STEP; nominal package envelope,Diode_SMD.3dshapes/D_SOD-323F.step
+C3,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+C33,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+R85,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+D25,Standard KiCad STEP; nominal package envelope,Diode_SMD.3dshapes/D_SOD-323F.step
+C27,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+U7,Standard KiCad STEP; nominal package envelope,Package_TO_SOT_SMD.3dshapes/SOT-23-5.step
+R26,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R41,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+C21,Standard KiCad STEP; nominal package envelope,Capacitor_SMD.3dshapes/C_0603_1608Metric.step
+R82,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R15,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_0603_1608Metric.step
+R95,Standard KiCad STEP; nominal package envelope,Resistor_SMD.3dshapes/R_1206_3216Metric.step
+J1,"Manufacturer STEP, aligned to drawing pin layout",Neutrik NMJ6HCD2
+J2,"Manufacturer STEP, aligned to drawing pin layout",Neutrik NMJ6HCD2
+J3,"Manufacturer STEP, aligned to drawing pin layout",Neutrik NMJ6HCD2
+J4,"Manufacturer STEP, aligned to drawing pin layout",Neutrik NMJ6HCD2
+J8,"Drawing-based exterior, connector contacts simplified",Switchcraft 57PC5F drawing
+J8_contact0,Visual contact representation,
+J8_contact1,Visual contact representation,
+J8_contact2,Visual contact representation,
+J8_contact3,Visual contact representation,
+J8_contact4,Visual contact representation,
+J10,"Drawing-based exterior, connector contacts simplified",Switchcraft 57PC5F drawing
+J10_contact0,Visual contact representation,
+J10_contact1,Visual contact representation,
+J10_contact2,Visual contact representation,
+J10_contact3,Visual contact representation,
+J10_contact4,Visual contact representation,
+J11,"Drawing-based exterior, connector contacts simplified",Switchcraft 57PC5F drawing
+J11_contact0,Visual contact representation,
+J11_contact1,Visual contact representation,
+J11_contact2,Visual contact representation,
+J11_contact3,Visual contact representation,
+J11_contact4,Visual contact representation,
+VR1,Inferred Song Huei R0904N family; body height 6.8 mm,R0904N drawing R09N-003; actual MPN unconfirmed
+VR1_cover,"0.8 mm nominal cover, visual body details",R0904N family drawing and photo
+VR1_shaft,"Round knurled KQ shaft D6; total L25 inferred from calibrated oblique photo, not measured",Photo white pointer + R0904N shaft variants
+VR1_pointer,Visual white pointer observed in photo,
+VR2,Inferred Song Huei R0904N family; body height 6.8 mm,R0904N drawing R09N-003; actual MPN unconfirmed
+VR2_cover,"0.8 mm nominal cover, visual body details",R0904N family drawing and photo
+VR2_shaft,"Round knurled KQ shaft D6; total L25 inferred from calibrated oblique photo, not measured",Photo white pointer + R0904N shaft variants
+VR2_pointer,Visual white pointer observed in photo,
+VR3,Inferred Song Huei R0904N family; body height 6.8 mm,R0904N drawing R09N-003; actual MPN unconfirmed
+VR3_cover,"0.8 mm nominal cover, visual body details",R0904N family drawing and photo
+VR3_shaft,"Round knurled KQ shaft D6; total L25 inferred from calibrated oblique photo, not measured",Photo white pointer + R0904N shaft variants
+VR3_pointer,Visual white pointer observed in photo,
+VR4,Inferred Song Huei R0904N family; body height 6.8 mm,R0904N drawing R09N-003; actual MPN unconfirmed
+VR4_cover,"0.8 mm nominal cover, visual body details",R0904N family drawing and photo
+VR4_shaft,"Round knurled KQ shaft D6; total L25 inferred from calibrated oblique photo, not measured",Photo white pointer + R0904N shaft variants
+VR4_pointer,Visual white pointer observed in photo,
+VR5,Inferred Song Huei R0904N family; body height 6.8 mm,R0904N drawing R09N-003; actual MPN unconfirmed
+VR5_cover,"0.8 mm nominal cover, visual body details",R0904N family drawing and photo
+VR5_shaft,"Round knurled KQ shaft D6; total L25 inferred from calibrated oblique photo, not measured",Photo white pointer + R0904N shaft variants
+VR5_pointer,Visual white pointer observed in photo,
+VR6,Inferred Song Huei R0904N family; body height 6.8 mm,R0904N drawing R09N-003; actual MPN unconfirmed
+VR6_cover,"0.8 mm nominal cover, visual body details",R0904N family drawing and photo
+VR6_shaft,"Round knurled KQ shaft D6; total L25 inferred from calibrated oblique photo, not measured",Photo white pointer + R0904N shaft variants
+VR6_pointer,Visual white pointer observed in photo,
+VR7,Inferred Song Huei R0904N family; body height 6.8 mm,R0904N drawing R09N-003; actual MPN unconfirmed
+VR7_cover,"0.8 mm nominal cover, visual body details",R0904N family drawing and photo
+VR7_shaft,"Round knurled KQ shaft D6; total L25 inferred from calibrated oblique photo, not measured",Photo white pointer + R0904N shaft variants
+VR7_pointer,Visual white pointer observed in photo,
+VR8,Inferred Song Huei R0904N family; body height 6.8 mm,R0904N drawing R09N-003; actual MPN unconfirmed
+VR8_cover,"0.8 mm nominal cover, visual body details",R0904N family drawing and photo
+VR8_shaft,"Round knurled KQ shaft D6; total L25 inferred from calibrated oblique photo, not measured",Photo white pointer + R0904N shaft variants
+VR8_pointer,Visual white pointer observed in photo,
+S1,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S1_cover,Drawing-based cover envelope,
+S1_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S2,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S2_cover,Drawing-based cover envelope,
+S2_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S3,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S3_cover,Drawing-based cover envelope,
+S3_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S4,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S4_cover,Drawing-based cover envelope,
+S4_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S5,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S5_cover,Drawing-based cover envelope,
+S5_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S6,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S6_cover,Drawing-based cover envelope,
+S6_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S7,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S7_cover,Drawing-based cover envelope,
+S7_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S8,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S8_cover,Drawing-based cover envelope,
+S8_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S9,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S9_cover,Drawing-based cover envelope,
+S9_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S10,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S10_cover,Drawing-based cover envelope,
+S10_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S11,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S11_cover,Drawing-based cover envelope,
+S11_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S12,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S12_cover,Drawing-based cover envelope,
+S12_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S13,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S13_cover,Drawing-based cover envelope,
+S13_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S14,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S14_cover,Drawing-based cover envelope,
+S14_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S15,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S15_cover,Drawing-based cover envelope,
+S15_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+S16,Drawing-based envelope,E-Switch TL1105SPF250Q drawing
+S16_cover,Drawing-based cover envelope,
+S16_actuator,Actuator height 7.5 mm; square head 2.8 mm,E-Switch drawing
+J_GATE_IN2,XY footprint exact; body height 10 mm ASSUMPTION,No manufacturer MPN in BOM
+J_GATE_IN2_bushing,"Inferred PJ301M-12/WQP518MA family: barrel D6 x5; oblique-photo estimated total height about15mm, MPN unconfirmed",
+J_CV_OUT_1,XY footprint exact; body height 10 mm ASSUMPTION,No manufacturer MPN in BOM
+J_CV_OUT_1_bushing,"Inferred PJ301M-12/WQP518MA family: barrel D6 x5; oblique-photo estimated total height about15mm, MPN unconfirmed",
+J_GATE_IN1,XY footprint exact; body height 10 mm ASSUMPTION,No manufacturer MPN in BOM
+J_GATE_IN1_bushing,"Inferred PJ301M-12/WQP518MA family: barrel D6 x5; oblique-photo estimated total height about15mm, MPN unconfirmed",
+J_CV_OUT_2,XY footprint exact; body height 10 mm ASSUMPTION,No manufacturer MPN in BOM
+J_CV_OUT_2_bushing,"Inferred PJ301M-12/WQP518MA family: barrel D6 x5; oblique-photo estimated total height about15mm, MPN unconfirmed",
+J_CV_IN_1,XY footprint exact; body height 10 mm ASSUMPTION,No manufacturer MPN in BOM
+J_CV_IN_1_bushing,"Inferred PJ301M-12/WQP518MA family: barrel D6 x5; oblique-photo estimated total height about15mm, MPN unconfirmed",
+J_CV_IN_2,XY footprint exact; body height 10 mm ASSUMPTION,No manufacturer MPN in BOM
+J_CV_IN_2_bushing,"Inferred PJ301M-12/WQP518MA family: barrel D6 x5; oblique-photo estimated total height about15mm, MPN unconfirmed",
+SW17,Inferred Dailywell 2M SPDT family: 5.08 x8.13 x8.64 mm,"Manufacturer 2M drawing; matching pin pitch, MPN unconfirmed"
+SW17_cover,Metal cover over red housing observed in photo,
+SW17_lever,B1 bushing 5.59 mm; T1 lever 9.4 mm nominal,Dailywell 2M family drawing; inferred variant
+SW18,Inferred Dailywell 2M SPDT family: 5.08 x8.13 x8.64 mm,"Manufacturer 2M drawing; matching pin pitch, MPN unconfirmed"
+SW18_cover,Metal cover over red housing observed in photo,
+SW18_lever,B1 bushing 5.59 mm; T1 lever 9.4 mm nominal,Dailywell 2M family drawing; inferred variant
+RV1_body,ALPS family drawing; exact suffix not in BOM,RK10J12R
+RV1_wheel,14 mm wheel; 4.7 mm total nominal,ALPS RK10J12R drawing
+J5,XY footprint; height 5 mm nominal package,CUI SJ-3523-SMT footprint
+J7,STEP supplied with hardware project,libs/USB4110GFA.step
+MICRO_SD7,STEP supplied with hardware project,libs/TF-01A/TF-01A.step
+L2,6 x 6 x 4.5 nominal package,TDK VLS6045
+U1,3 x 3 nominal body,HVSSOP8
+A1_Seed3_official,Official Seed3 Rev5 STEP; socket stack11.5mm inferred from oblique photo (estimated11.67mm),Daisy Seed3-models.zip
+A1_socket_29.705,Socket stack inferred; module removable,2 x 20 pin 2.54 mm
+A1_socket_44.945,Socket stack inferred; module removable,2 x 20 pin 2.54 mm

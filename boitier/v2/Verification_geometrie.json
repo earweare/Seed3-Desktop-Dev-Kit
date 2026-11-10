@@ -1,0 +1,46 @@
+{
+  "Socle": {
+    "watertight": true,
+    "winding_consistent": true,
+    "parts": 1,
+    "dimensions_mm": [
+      209.0,
+      123.0,
+      10.0
+    ],
+    "volume_mm3": 85721.71954038103
+  },
+  "Capot": {
+    "watertight": true,
+    "winding_consistent": true,
+    "parts": 1,
+    "dimensions_mm": [
+      209.0,
+      123.0,
+      24.0
+    ],
+    "volume_mm3": 102416.47000834024
+  },
+  "Poussoir_x16": {
+    "watertight": true,
+    "winding_consistent": true,
+    "parts": 1,
+    "dimensions_mm": [
+      8.399999618530273,
+      8.399999618530273,
+      8.399999618530273
+    ],
+    "volume_mm3": 212.29293325588378
+  },
+  "collisions": [],
+  "ergonomie_v2": {
+    "capot_seed_z_mm": 29.5,
+    "capot_seed_abaissement_mm": 4.5,
+    "rayon_degagement_a_z24_mm": 7,
+    "rayon_degagement_a_z29_5_mm": 12.5,
+    "paroi_normale_mm": 2.4,
+    "jeu_minimal_seed_capot_mm": 0.9752398227481074,
+    "jeu_radial_axe_coque_a_z24_mm": 4,
+    "jeu_radial_axe_coque_a_z29_5_mm": 9.5
+  }
+}
